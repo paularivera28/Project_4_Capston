@@ -51,6 +51,11 @@ The repositori has the following 3 folders
 - time (int) - time in hours since start of test. The data begins at time t=0
 - value - (dict of strings) - either an offer id or transaction amount depending on the record
 
+## Instructions<a name="Instructions"></a>
+- Download the database
+- Install Packages (Using Pip Install or Anaconda Prompt)
+- Execute the Jupyther Notebook Project 4_Capstone Credit Risk.ipynb
+- 
 ## Results<a name="results"></a>
 
 The blog with the result of the analisis is in this link  [post](https://paularivera288.wixsite.com/website/post/exploring-the-seattle-airbnb-data)
