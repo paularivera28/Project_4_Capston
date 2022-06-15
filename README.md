@@ -59,6 +59,6 @@ The repositori has the following 3 folders
  
 ## Results<a name="results"></a>
 
-The blog with the result of the analisis is in this link  [Blog](https://github.com/paularivera28/Project_4_Capston/blob/gh-pages/Blog.md)
+The blog with the result of the analisis is in this link  [Blog](https://paularivera28.github.io/Project_4_Capston/)
 
 
