@@ -59,7 +59,7 @@ The repositori has the following 3 folders
  
 ## Results<a name="results"></a>
 
-The blog with the result of the analisis is in this link  [post](https://paularivera288.wixsite.com/website/post/exploring-the-seattle-airbnb-data)
+The blog with the result of the analisis is in this link  [post](https://github.com/paularivera28/Project_4_Capston)
 
-
+[editor on GitHub](https://github.com/paularivera28/Project_4_Capston/edit/gh-pages/blog.md)
 
