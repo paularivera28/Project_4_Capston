@@ -1,4 +1,4 @@
-# Project_4_Capston
+# Project 4 Starbucks-Capstone-Challenge
 
 ### Table of Contents
 
